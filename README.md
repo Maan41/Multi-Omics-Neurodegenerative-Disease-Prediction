@@ -19,23 +19,23 @@ This project applies machine learning (Logistic Regression, Random Forest, SVM) 
 | Combined (Raw) | Logistic Regression | 0.761 | 0.832 |
 
 ## Repository Structure
-Multi-Omics-Neurodegenerative-Disease-Prediction/
-├── ROSMAP/ # Dataset folder
-├── neuro_disease_prediction.ipynb # Main Jupyter notebook
-├── final_results.csv # Final model results
-├── summary_results.csv # Summary of all experiments
-├── top_features.csv # Feature importance rankings
-├── roc_curve.jpeg # ROC curve visualization
-├── confusion_matrix.jpeg # Confusion matrix visualization
-├── requirements.txt # Python dependencies
-├── LICENSE # MIT License
-└── README.md # Project documentation
+Multi-Omics-Neurodegenerative-Disease-Prediction
+ ROSMAP # Dataset folder
+ neuro_disease_prediction.ipynb # Main Jupyter notebook
+ final_results.csv # Final model results
+ summary_results.csv # Summary of all experiments
+ top_features.csv # Feature importance rankings
+ roc_curve.jpeg # ROC curve visualization
+ confusion_matrix.jpeg # Confusion matrix visualization
+ requirements.txt # Python dependencies
+ LICENSE # MIT License
+ README.md # Project documentation
 
 
 ## Installation
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/Maan41/Multi-Omics-Neurodegenerative-Disease-Prediction.git
 cd Multi-Omics-Neurodegenerative-Disease-Prediction
 
