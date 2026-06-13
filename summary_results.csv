@@ -1,0 +1,5 @@
+Experiment,Model,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Combined (Raw),Logistic Regression,0.760563,0.763158,0.783784,0.773333,0.832273
+Combined (Scaled),Logistic Regression,0.788732,0.775,0.837838,0.805195,0.86407
+Combined (Scaled + Feature Selection),Logistic Regression,0.71831,0.757576,0.675676,0.714286,0.810016
+Combined (Scaled + Tuned LR),Tuned Logistic Regression,0.802817,0.794872,0.837838,0.815789,0.86566
