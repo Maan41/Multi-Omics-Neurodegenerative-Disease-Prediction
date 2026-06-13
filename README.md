@@ -20,15 +20,25 @@ This project applies machine learning (Logistic Regression, Random Forest, SVM) 
 
 ## Repository Structure
 Multi-Omics-Neurodegenerative-Disease-Prediction
+
  ROSMAP # Dataset folder
+ 
  neuro_disease_prediction.ipynb # Main Jupyter notebook
+ 
  final_results.csv # Final model results
+
  summary_results.csv # Summary of all experiments
+ 
  top_features.csv # Feature importance rankings
+ 
  roc_curve.jpeg # ROC curve visualization
+ 
  confusion_matrix.jpeg # Confusion matrix visualization
+ 
  requirements.txt # Python dependencies
+ 
  LICENSE # MIT License
+ 
  README.md # Project documentation
 
 
@@ -44,11 +54,17 @@ cd Multi-Omics-Neurodegenerative-Disease-Prediction
 Dependencies
 
 Python 3.x
+
 pandas
+
 numpy
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 jupyter
 
 
@@ -56,9 +72,11 @@ jupyter
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ##Author
+
 Jotsaroop singh
 
 Acknowledgments
+
 ROSMAP dataset from IEEE
 
 Thapar Institute of Engineering and Technology 
